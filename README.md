@@ -172,6 +172,7 @@ plt.show()
 <img width="328" height="343" alt="Screenshot 2025-11-24 104741" src="https://github.com/user-attachments/assets/94e9e467-64f4-490b-927b-b40b17759c42" />
 
 <img width="347" height="333" alt="Screenshot 2025-11-24 104749" src="https://github.com/user-attachments/assets/193fab88-8542-4f97-ac38-60fd7ac76ff8" />
+
 ## Result
 
 The code successfully detected license plates in the test images using the Haar Cascade classifier.
